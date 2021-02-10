@@ -49,6 +49,6 @@ In **Supervised Learning** we have :
           Python
  
  
-## **The Codes regarding this Linear Regression model with three different business problems *salary hike prediction* ,*delivary time prediction*, *AT prediction* with their datasets are present in this Repository in detail**
+**The Codes regarding this Linear Regression model with three different business problems *salary hike prediction* ,*delivary time prediction*, *AT prediction* with their datasets are present in this Repository in detail**
           
 
